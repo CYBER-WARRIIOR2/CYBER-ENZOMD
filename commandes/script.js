@@ -35,23 +35,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *ENZO MD IMPORTANT INFO* 
+     *CYBER MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ENZOTECH2/ENZO-MD
-
+> https://github.com/CYBER-WARRIIOR2/CYBER-ENZOMD
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
+> https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *ENZO*
-│❒⁠⁠⁠⁠ *DEV2* : *ENZO TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹*
+│❒⁠⁠⁠⁠ *DEV2* : *✦ 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐲𝐩𝐭𝐨 𝐊𝐢𝐧𝐠°🪙°👑*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Enzo Tech*
+     *✦ 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐲𝐩𝐭𝐨 𝐊𝐢𝐧𝐠°🪙°👑*
 
 ❒────────────────────❒`;
 
