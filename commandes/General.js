@@ -10,7 +10,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "❣️" }, async (dest
   if (thsudo) {
      let msg = `*My Super-User*\n
      *Owner Number*\n :
-- 🌟 @${conf.NUMERO_OWNER}
+- 🌟 923140053156 
 
 ------ *other sudos* -----\n`
      
@@ -55,15 +55,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "POPKID", numero: "254111385747" },
-      { nom: "᚛POPKID᚜", numero: "254732297194" },
-      { nom: "ENZO", numero: "254784115308" },
+      { nom: "CYBER-Md", numero: "923140053156" },
+        
       // Ajoute d'autres développeurs ici avec leur nom et numéro
-    ];
 
-    let message = "WELCOME TO ENZO MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO CYBER-Md MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+      message += `----------------\n• ${dev.nom} : `https://wa.me/923140053156`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
@@ -71,7 +69,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
         zk.sendMessage(dest, { video: { url: lien }, caption:message }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
+        console.log("🥵🥵 Menu erreur " + e);1
         repondre("🥵🥵 Menu erreur " + e);
     }
 } 
@@ -95,7 +93,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING ENZO, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@popkid254] \n\n\n*Created By ENZO") 
+  repondre("THANK YOU FOR CHOOSING CYBER-Md, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com] \n\n ☉ GROUP LINK IS HERE ❒\n\n[https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J ]") 
   await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING ENZO,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
