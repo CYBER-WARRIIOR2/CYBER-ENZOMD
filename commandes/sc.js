@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗 𝗜𝗡𝗙𝗢* 
+      *✦ 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐲𝐩𝐭𝐨 𝐊𝐢𝐧𝐠°🪙°👑* 
 ❒───────────────────❒
 *𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*
-> https://github.com/Popkiddevs/NORMAL-BOT-MD
+> https://github.com/CYBER-WARRIIOR2/CYBER-ENZOMD
 
 *𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟*
-> https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
+> https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J
 ⁠
 ╭───────────────────❒
 │⏰⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│⚽ *DEV1* : *𝗣𝗢𝗣𝗞𝗜𝗗⭕*
-│⏰ *DEV2* : *𝗣𝗢𝗣𝗞𝗜𝗗*
+│⚽ *DEV1* : *𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹⭕*
+│⏰ *DEV2* : *𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝗣𝗢𝗣𝗞𝗜𝗗 𝗧𝗘𝗖𝗛*
+     *✦ 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐲𝐩𝐭𝐨 𝐊𝐢𝐧𝐠°🪙°👑*
 
 ❒────────────────────❒`;
 
