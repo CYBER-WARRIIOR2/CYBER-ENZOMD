@@ -38,7 +38,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
     const alivemsg = `
-*Owner* : ${s.OWNER_NAME}
+*Owner* : 293140053156 
 *Mode* : ${mode}
 *Date* : ${date}
 *Hours(GMT)* : ${temps}
@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *ENZO-MD-WABOT*`
+ *CYBER-Md-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -74,7 +74,7 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("ATI ALIVE MZEE😂") ; return};
+        if(!superUser) { repondre("*CYBER IS ALIVE*") ; return};
 
       await   repondre("SI ATA WE UNAJUA ENZO MD HAIEZI LALA NO MATTER WHAT");
          repondre("EBU TINGIZA KICHWA :)")
@@ -91,7 +91,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *ENZO MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *CYBER-Md BOT* is alive just like you gee. ')
 
 }
     });
