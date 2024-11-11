@@ -1,9 +1,9 @@
 {
-  "name":"ENZO",
-  "description":"Best whatsapp bot developed by ENZO",
+  "name":"CYBER-WARRIIOR",
+  "description":"Best whatsapp bot developed by CYBER-WARRIIOR",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
+  "logo":"https://i.imgur.com/ur24PoA.jpg",
+  "repository":"https://github.com/CYBER-WARRIIOR2/CYBER-ENZOMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"✦ 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐲𝐩𝐭𝐨 𝐊𝐢𝐧𝐠°🪙°👑",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
+      "value":"https://i.imgur.com/ur24PoA.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "923140053156"
   },
     "WARN_COUNT":
   {
